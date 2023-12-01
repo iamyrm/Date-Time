@@ -8,10 +8,10 @@ import MapImg from "./assets/map.png";
 const App = () => {
   return (
     <>
-      <div class="myCard">
-        <div class="card__class">
+      <div className="myCard">
+        <div className="card__class">
           <div>
-            <img class="card__image" src={MapImg} alt="Map" />
+            <img className="card__image" src={MapImg} alt="Map" />
           </div>
           <div>
             <MainHeader />

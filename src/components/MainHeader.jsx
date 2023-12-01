@@ -5,7 +5,7 @@ const MainHeader = () => {
     <>
       <div>
         <center className="cloclMainHeader">
-          <h1>Nepali Clock</h1>
+          <h1>Nepal Clock</h1>
           <hr />
         </center>
       </div>
